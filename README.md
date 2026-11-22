@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuxin669&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuxin669&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxin669&layout=compact)
 <!--
 **yuxin669/Yuxin669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
